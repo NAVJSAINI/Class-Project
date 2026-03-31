@@ -97,7 +97,7 @@ padding-right: 2em;}
 }
 #phulkari{
     height: 500px;
-    background-image: url("images/phulkari.jpg");   
+    background-image: url("phulkari.jpg");   
     background-size: 120% 100%;           
     background-repeat: no-repeat;
     background-position: right;}

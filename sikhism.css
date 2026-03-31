@@ -99,11 +99,11 @@ padding-right: 2em;}
 
 #phulkari{
     height: 500px;
-    width: 100%;                     /* optional but good for responsiveness */
+/* optional but good for responsiveness */
     background-image: url("phulkari.jpg");   
-    background-size: cover;           
+    background-size: 120% 100%;           
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: right;
 }
 
 aside {

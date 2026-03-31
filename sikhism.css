@@ -72,26 +72,26 @@ padding-right: 2em;}
 
 #sikhism {
     height: 500px;                       
-    background-image: url("images/sikhism.jpg");   
+    background-image: url("sikhism.jpg");   
     background-size: 120% 100%;           
     background-repeat: no-repeat;
 }
 #sikhgurus{
     height: 500px;
-    background-image: url("images/sikhgurus.jpg");   
+    background-image: url("sikhgurus.jpg");   
     background-size: 120% 100%;           
     background-repeat: no-repeat;
     background-position: right;
 }
 #traditions3{
     height: 600px;
-    background-image: url("images/traditions3.jpg");
+    background-image: url("traditions3.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 #arts{
     height: 500px;
-    background-image: url("images/arts.jpg");
+    background-image: url("arts.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }

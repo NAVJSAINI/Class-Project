@@ -89,18 +89,23 @@ padding-right: 2em;}
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
-#arts{
-    height: 500px;
-    background-image: url("arts.jpg");
-    background-size: 100% 100%;
+#arts {
+    width: 300px;                 /* set a width */
+    height: 200px;                /* set a height */
+    background-image: url('arts.jpg');  
+    background-size: cover;        /* scale to cover div */
     background-repeat: no-repeat;
+    background-position: center;
 }
+
 #phulkari{
     height: 500px;
+    width: 100%;                     /* optional but good for responsiveness */
     background-image: url("phulkari.jpg");   
-    background-size: 120% 100%;           
+    background-size: cover;           
     background-repeat: no-repeat;
-    background-position: right;}
+    background-position: center;
+}
 
 aside {
     display: flex;
